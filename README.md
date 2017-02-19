@@ -1,2 +1,1 @@
-# testrep
-test README file
+Update README from local REPO
